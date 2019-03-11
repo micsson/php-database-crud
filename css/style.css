@@ -1,0 +1,33 @@
+body{
+    background-color: #80838A;
+}
+
+header{
+ text-align: center;
+ background-color: #56617D;
+ color: white;
+}
+
+footer{
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #56617D;
+    color: white;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1em;
+    margin: 1.5em;
+}
+ 
